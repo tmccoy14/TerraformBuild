@@ -1,5 +1,5 @@
 variable "ami" {
-  type = "string"
+  type        = "string"
   description = "AWS AMI To Launch Instance With"
 }
 
